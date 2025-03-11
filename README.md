@@ -37,8 +37,7 @@ I'm a **Software Engineer** with a passion for developing cutting-edge solutions
 
 <br />
 <br />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=M-S-KHAN&theme=discord&no-frame=true&rank=-?&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imFaizanArif)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Github Stats
 
