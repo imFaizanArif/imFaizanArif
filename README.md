@@ -2,18 +2,18 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Software Engineer** with a passion for developing cutting-edge solutions using **JavaScript & Java**. With extensive experience in **Next/React.js**, **Spring Boot**, and **AWS Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I lead the development of AI-powered smartglasses at Mavis Technologies in the UK.
+I'm a **Software Engineer** with a passion for developing cutting-edge solutions using **JavaScript**. With extensive experience in **React/Vite/Next.js** and **AWS Cloud**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I worked with the frontend development of Smart Eye at Kodifly.
 
 ### 💻 What I'm Up To
 
 - 🎉 Celebrating **2 years** of transformative technology development.
-- 🌱 Deep diving into **Next.js and React.js**, mastering **AWS Data Engineering**, and exploring **Backend Development with Java and Spring Boot**.
+- 🌱 Deep diving into **Next.js and React.js**, mastering **AWS Data Engineering**, and exploring **Frontend Optimization & Enhancment Techinques**.
 - 🛠️ Looking for exciting **freelance opportunities** and **long-term remote projects** where I can contribute and learn.
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 
 - Expand my professional network and secure global business partnerships.
-- Leverage my skills to reach a wider clientele, helping businesses harness the power of AI and cloud technologies.
+- Leverage my skills to reach a wider clientele, helping businesses harness the power of Web and AI technologies.
 
 ### 😄 Fun Fact
 
