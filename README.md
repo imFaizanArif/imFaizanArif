@@ -7,7 +7,7 @@ I'm a **Software Engineer** with a passion for developing cutting-edge solutions
 ### 💻 What I'm Up To
 
 - 🎉 Celebrating **2 years** of transformative technology development.
-- 🌱 Deep diving into **Next.js and React.js**, mastering **AWS Data Engineering**, and exploring **Frontend Optimization & Enhancment Techinques**.
+- 🌱 Deep diving into **Next.js and React.js** and exploring **Frontend Optimization & Enhancment Techinques**.
 - 🛠️ Looking for exciting **freelance opportunities** and **long-term remote projects** where I can contribute and learn.
 
 ### 🎯 2025 Goals
