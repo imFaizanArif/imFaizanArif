@@ -1,56 +1,53 @@
 # Hi, Earth! 🌎 I'm Faizan Arif 👋
 
-### 🚀 About Me
+### Geospatial Software Engineer | Digital Twins, LiDAR and Multi-Sensor Spatial Data
 
-I'm a **Software Engineer** with a passion for developing cutting-edge solutions using **JavaScript**. With extensive experience in **React/Vite/Next.js**, I thrive in dynamic environments that challenge my skills and allow me to make a significant impact. Currently, I'm working at Kodifly as a Frontend Engineer II.
+I build software that brings LiDAR point clouds, BIM models, 3D Gaussian splats, 360° imagery and GNSS data together in one place, so engineers can monitor real infrastructure from a browser.
 
-### 💻 What I'm Up To
+I'm a **Software Engineer III at [Kodifly](https://kodifly.com)** and the technical lead on **SmartEye**. SmartEye is a construction and geohazard monitoring Digital Twin, developed with Hong Kong's Development Bureau and used at 13 government infrastructure sites.
 
-- 🎉 Celebrating **3 years** of transformative technology development.
-- 🌱 Deep diving into **React.js**, mastering **Three.js / Spatial & Point Cloud Data** and exploring **Frontend Optimization & Enhancment Techinques**.
-- 🛠️ Looking for exciting **freelance opportunities** and **long-term remote projects** where I can contribute and learn.
+### 🏆 Recognition for products I've engineered
 
-### 🎯 2025 Goals
+- **SmartEye:** CIC AI Gold Award (AI + Quality Inspection), Construction Industry Council, Hong Kong, 2026
+- **SmartEye:** Silver Medal, International Exhibition of Inventions of Geneva 2025, and Best International Invention and Innovation, National Research Council of Thailand
+- **SpatialSense:** HBL P@SHA ICT Award 2025, Engineering and Construction
 
-- Expand my professional network and secure global business partnerships.
-- Leverage my skills to reach a wider clientele, helping businesses harness the power of Web and AI technologies.
+### 🛰️ What I work on
 
-### 😄 Fun Fact
+- **Spatial data integration:** coordinate reference systems (Hong Kong 1980 Grid / EPSG:2326, ECEF), and aligning BIM and LiDAR in one frame
+- **Geohazard monitoring on point clouds:** slope gradient analysis, water flow and ponding, design vs as-built volumes
+- **Multi-epoch comparison:** survey-to-survey change and volumetric analysis
+- **Large 3D data in the browser:** surveys up to 20 GB, streamed with octrees and 3D Tiles; WebAssembly decoding of LAS, LAZ, PLY, IFC, GLB and Gaussian splats
+- **Live multi-sensor streams:** ROS point clouds, camera feeds and GNSS tracking for AI detection systems
 
-- I'm a multi-talented tech enthusiast who loves solving puzzles not just on the screen, but in real life too!
+> Most of my professional work is in private company repositories, so it isn't visible here. The pinned repos below are my personal and academic projects.
 
-### 📫 How to Reach Me
+### 🌱 Currently
 
-- **LinkedIn:** [imFaizanArif](https://linkedin.com/in/imFaizanArif)
-- **GitHub:** [imFaizanArif](https://github.com/imFaizanArif)
-- **Instagram:** [imFaizanArif](https://instagram.com/imFaizanArif)
+- Exploring **Discrete Global Grid Systems (H3, rHEALPix)** for multi-resolution spatial indexing
+- Preparing for graduate research in **GeoAI and Digital Earth** systems
+- Open to research collaborations and remote engineering roles
 
-### Hire Me!
+### 🧰 Tech
 
-<br />
-<br />
-<br />
+**Geospatial & 3D:** Cesium · Potree · Three.js · 3D Tiles · LiDAR (LAS/LAZ/PLY) · BIM/IFC · Gaussian splatting · photogrammetry · GNSS · ROS<br>
+**Data & AI:** Python · PyTorch · scikit-learn · NumPy · Matplotlib · SQL<br>
+**Software & Cloud:** TypeScript · React · Next.js · Node.js · Flask · Django · WebAssembly · WebSockets · AWS · CI/CD
 
-### Languages and Tools:
+[![Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,threejs,pytorch,sklearn,flask,django,postgres,mongodb,aws,linux,git,pnpm&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nextjs,react,nodejs,webpack,python,linux,pnpm,selenium,aws,express,threejs,graphql,mongodb,postgres,arduino,,materialui,sass,git,postman,vscode,figma,&theme=dark)](https://skillicons.dev)
-
-<br />
-<br />
-[![trophy](https://github-profile-trophy.vercel.app/?username=imFaizanArif)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Github Stats
-
-[![imFaizanArif's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imFaizanArif&theme=gotham)](https://git.io/streak-stats)
+### 📊 GitHub Stats
 
 ![Faizan Arif's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=imFaizanArif&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_rank=true)
 
-### Coding Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=imFaizanArif&theme=gotham)](https://git.io/streak-stats)
 
-[![M-S-KHAN's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imFaizanArif&theme=gotham&layout=compact)]([https://www.fiverr.com/thepyclan])
+### 😄 Fun Fact
 
-[![](https://visitcount.itsvg.in/api?id=M-S-KHAN&icon=0&color=0)](https://visitcount.itsvg.in)
+I love solving puzzles, not just on the screen but in real life too.
 
-[twitter]: https://twitter.com/imFaizanArif
-[linkedin]: https://linkedin.com/in/imFaizanArif
-[personal]: https://faizanarifmskhan.vercel.app
+### 📫 Reach Me
+
+- **Email:** [faizanarif1245@gmail.com](mailto:faizanarif1245@gmail.com)
+- **LinkedIn:** [imFaizanArif](https://linkedin.com/in/imfaizanarif)
+- **GitHub:** [imFaizanArif](https://github.com/imFaizanArif)
