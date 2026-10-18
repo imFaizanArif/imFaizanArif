@@ -1,53 +1,68 @@
-# Hi, Earth! 🌎 I'm Faizan Arif 👋
+# Hi, Earth! 🌎
 
-### Geospatial Software Engineer | Digital Twins, LiDAR and Multi-Sensor Spatial Data
+```json
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Faizan Arif",
+    "does": "makes computers understand where things are",
+    "works_with": ["point clouds", "BIM models", "Gaussian splats", "GNSS", "live sensor feeds"],
+    "currently_at": "Kodifly, building Digital Twins for infrastructure in Hong Kong",
+    "favourite_question": "which coordinate system are you in?",
+    "crs": "EPSG:2326 (please only apply it once)"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": "somewhere in Pakistan 🇵🇰"
+  }
+}
+```
 
-I build software that brings LiDAR point clouds, BIM models, 3D Gaussian splats, 360° imagery and GNSS data together in one place, so engineers can monitor real infrastructure from a browser.
+---
 
-I'm a **Software Engineer III at [Kodifly](https://kodifly.com)** and the technical lead on **SmartEye**. SmartEye is a construction and geohazard monitoring Digital Twin, developed with Hong Kong's Development Bureau and used at 13 government infrastructure sites.
+### 🐛 The bug that made me who I am
 
-### 🏆 Recognition for products I've engineered
+```diff
+- BIM model position: 1,167 km away from the LiDAR scan 😅
+- every transform looked correct on its own
+- nothing crashed, nothing warned
++ cause: one HK1980 → ECEF conversion running twice
++ fix: one coordinate frame, one source of truth
++ lesson: spatial bugs don't crash, they just quietly move your building to another city
+```
 
-- **SmartEye:** CIC AI Gold Award (AI + Quality Inspection), Construction Industry Council, Hong Kong, 2026
-- **SmartEye:** Silver Medal, International Exhibition of Inventions of Geneva 2025, and Best International Invention and Innovation, National Research Council of Thailand
-- **SpatialSense:** HBL P@SHA ICT Award 2025, Engineering and Construction
+### 🧠 How my brain processes spatial data
 
-### 🛰️ What I work on
+```mermaid
+flowchart LR
+    A[🛰️ LiDAR] --> D{same grid?}
+    B[🏗️ BIM] --> D
+    C[📍 GNSS] --> D
+    D -- no --> E[☕ debugging]
+    E --> D
+    D -- yes --> F[🌍 something people can actually use]
+```
 
-- **Spatial data integration:** coordinate reference systems (Hong Kong 1980 Grid / EPSG:2326, ECEF), and aligning BIM and LiDAR in one frame
-- **Geohazard monitoring on point clouds:** slope gradient analysis, water flow and ponding, design vs as-built volumes
-- **Multi-epoch comparison:** survey-to-survey change and volumetric analysis
-- **Large 3D data in the browser:** surveys up to 20 GB, streamed with octrees and 3D Tiles; WebAssembly decoding of LAS, LAZ, PLY, IFC, GLB and Gaussian splats
-- **Live multi-sensor streams:** ROS point clouds, camera feeds and GNSS tracking for AI detection systems
+### ⏳ Loading...
 
-> Most of my professional work is in private company repositories, so it isn't visible here. The pinned repos below are my personal and academic projects.
+```
+DGGS (H3, rHEALPix)        ▓▓░░░░░░░░  just started
+grad school in GeoAI       ▓▓▓▓░░░░░░  applications loading
+AI that reasons about space ▓░░░░░░░░░  thinking about it a lot
+```
 
-### 🌱 Currently
+### 💬 Ping me about
 
-- Exploring **Discrete Global Grid Systems (H3, rHEALPix)** for multi-resolution spatial indexing
-- Preparing for graduate research in **GeoAI and Digital Earth** systems
-- Open to research collaborations and remote engineering roles
+`point clouds` `Three.js` `Cesium` `Gaussian splats` `coordinate system pain` `puzzles 🧩`
 
-### 🧰 Tech
+### 🧰 Usual suspects
 
-**Geospatial & 3D:** Cesium · Potree · Three.js · 3D Tiles · LiDAR (LAS/LAZ/PLY) · BIM/IFC · Gaussian splatting · photogrammetry · GNSS · ROS<br>
-**Data & AI:** Python · PyTorch · scikit-learn · NumPy · Matplotlib · SQL<br>
-**Software & Cloud:** TypeScript · React · Next.js · Node.js · Flask · Django · WebAssembly · WebSockets · AWS · CI/CD
+[![Skills](https://skillicons.dev/icons?i=ts,python,react,nextjs,threejs,nodejs,pytorch,postgres,aws,linux,git&theme=dark)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,threejs,pytorch,sklearn,flask,django,postgres,mongodb,aws,linux,git,pnpm&theme=dark)](https://skillicons.dev)
-
-### 📊 GitHub Stats
-
-![Faizan Arif's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=imFaizanArif&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_rank=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imFaizanArif&theme=gotham)](https://git.io/streak-stats)
-
-### 😄 Fun Fact
+### 😄 Fun fact
 
 I love solving puzzles, not just on the screen but in real life too.
 
-### 📫 Reach Me
+---
 
-- **Email:** [faizanarif1245@gmail.com](mailto:faizanarif1245@gmail.com)
-- **LinkedIn:** [imFaizanArif](https://linkedin.com/in/imfaizanarif)
-- **GitHub:** [imFaizanArif](https://github.com/imFaizanArif)
+📫 [Email](mailto:faizanarif1245@gmail.com) · [LinkedIn](https://linkedin.com/in/imfaizanarif)
