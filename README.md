@@ -9,7 +9,6 @@ I spend my days with **LiDAR point clouds, BIM models, Gaussian splats and live 
 ### 💻 What I'm Up To
 
 - 🎉 **4 years** in, and still getting excited when a point cloud finally lands in the right place.
-- 🌱 Deep diving into **Discrete Global Grid Systems (H3, rHEALPix)** and **GeoAI**: how to put messy multi-sensor data on one grid.
 - 🛰️ Playing with **Three.js, Cesium, 3D Tiles and Gaussian splats** to make huge 3D data feel light in the browser.
 - 🤝 Open to **research collaborations** and **remote roles** around geospatial, 3D and Digital Twin work.
 
