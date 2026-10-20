@@ -47,16 +47,6 @@ Got a spatial data problem, a Digital Twin idea or a weird 3D bug? [Drop me a me
 
 <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imFaizanArif&theme=gotham&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 📊 GitHub Stats
 
 [![imFaizanArif's GitHub Streak](https://streak-stats.demolab.com?user=imFaizanArif&theme=gotham)](https://git.io/streak-stats)
-
-![Faizan Arif's GitHub stats](https://github-readme-stats-orcin-pi-41.vercel.app/api?username=imFaizanArif&show_icons=true&theme=gotham&count_private=true&include_all_commits=true&hide_rank=true)
-
-### ⏱️ Coding Stats
-
-[![imFaizanArif's WakaTime stats](https://github-readme-stats-orcin-pi-41.vercel.app/api/wakatime?username=imFaizanArif&theme=gotham&layout=compact)](https://wakatime.com/@imFaizanArif)
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=imFaizanArif&icon=0&color=0)
